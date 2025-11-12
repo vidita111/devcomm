@@ -18,7 +18,7 @@ body {
 
 
 header nav A{
-  color: crimson;             
+  color:blue;             
   text-decoration-line: underline;
   margin-left: 15px;          
   font-weight: bold;
@@ -110,5 +110,6 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
+
 
 
